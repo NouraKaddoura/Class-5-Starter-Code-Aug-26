@@ -1,0 +1,13 @@
+#about, #about-bad {
+    background-color: #eee;
+}
+#contact {
+    background-color: #ccc;
+}
+.container-full {
+    border: 1px solid gray;
+}
+
+.container {
+    border: 1px solid gray;
+}
